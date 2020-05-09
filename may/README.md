@@ -20,7 +20,7 @@ If you plan to follow along (which you should!), you should have Python 3 instal
 
 ## Resources
 
-Original presentation by Matt Harrison: https://us.pycon.org/2020/schedule/presentation/53/
-Python documentation: 
--- Python standard libraries: https://docs.python.org/3/library/index.html
--- Idle: https://docs.python.org/3/library/idle.html 
+Original presentation by Matt Harrison: https://us.pycon.org/2020/schedule/presentation/53/  
+Python documentation:   
+- Python standard libraries: https://docs.python.org/3/library/index.html
+- Idle: https://docs.python.org/3/library/idle.html 
